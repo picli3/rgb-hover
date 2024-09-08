@@ -1,0 +1,6 @@
+"Reference","Value","Footprint","Qty"
+"C1,C2,C3","2.2uF","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm","3"
+"J1","POWER","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","1"
+"J2","RGB_TAPE","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1"
+"Q1,Q2,Q3","IRFZ44N","Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown","3"
+"R1,R2,R3","1M","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","3"
